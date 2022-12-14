@@ -1,6 +1,8 @@
 # On the Privacy of fault tolerant DC designs
 
 This repository includes the source code of the fault tolerant design of coding-Based parallel digital channelizers written in SystemVerilog.
+The code is for the paper:
+Zhen GAO, Jiajun Xiao, Qiang Liu, Anees Ullah, and Pedro Reviriego, "A Methodology for the Design of Fault Tolerant Parallel Digital Channelizers on SRAM-FPGAs," IEEE Transactions on Circuits and Systems I: Regular Papers, under 3rd round of review.
 
 # Dependencies
 - Vivado 2018.2
