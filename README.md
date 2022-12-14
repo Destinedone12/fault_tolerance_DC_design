@@ -6,6 +6,10 @@ Zhen GAO, Jiajun Xiao, Qiang Liu, Anees Ullah, and Pedro Reviriego, "A Methodolo
 
 # Dependencies
 - Vivado 2018.2
+- FIR Compiler IP core (version 7.2)
+- Fast Fourier Transform IP core (version 9.1)
+- TMR Voter IP core (version 1.0)
+- Divider Generator IP core (version 5.1)
 
 # Content
 
