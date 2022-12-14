@@ -19,6 +19,8 @@ each ***_src directory contains the source code and a configuration guide (named
 - DC_FT_TMR_src: Fault tolerant design of digital channelizers using TMR method.
 - DC_FT_coded_src: Redundant part of coding-based fault tolerant design for 8 digital channelizers
 
+schematic directory contains the schematic of single digital channelizer, TMR and coding-based error checker & fixer.
+
 # Generation of Utilization & Power report
 - Set up a new project in Vivado, then follow the instructions in the configuration guide.
 - Create a new .xdc file, then add user-defined clock constraints, like
